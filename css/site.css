@@ -1,0 +1,11 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+ul.todo-list > li {
+    margin: .75rem 0;
+}
+
+li.done {
+    text-decoration: line-through;
+}
